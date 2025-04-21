@@ -29,10 +29,20 @@ V1.0 comes with some "issues"
   4) Rearragne components if possible to allow space for full usb cable to fit - currently only short cable/angled cable is possible.
 
 
+# Pictures of PCB and installation.
+![image](https://github.com/user-attachments/assets/8abcf170-1876-4fbc-9b6d-4df3dc87784c)
+![image](https://github.com/user-attachments/assets/0026dabc-cd52-4feb-be6b-f23143dd2b9e)
+![image](https://github.com/user-attachments/assets/44e539b3-e559-4ddc-aaa5-a5bc3d83cabb)
+![image](https://github.com/user-attachments/assets/14568da3-a0c9-467b-8901-e5f2e5959b70)
+![image](https://github.com/user-attachments/assets/2496b162-fd1f-484b-a2dd-0d603f6e1615)
+![image](https://github.com/user-attachments/assets/9290a2b2-218d-46c9-9a58-84029e065b5a)
+![image](https://github.com/user-attachments/assets/161a6718-c6a4-4e6c-9298-dddae5da64cf)
+
 # Interest from others 
 If you are interested in this kind of item please contact me on (filipee8.net@gmail.com).
 
 # Thanks
 Thanks to CZSmith for the Schematic.
 
-Pictures of PCB and installation.
+
+

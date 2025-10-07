@@ -29,12 +29,12 @@ V1.0.0 comes with some "issues"
   4) Rearragne components if possible to allow space for full usb cable to fit - currently only short cable/angled cable is possible.
 
 # Updated version 1.1.0 - 07/10/2025
-V1.1.0 comes with the following improvements
-  1)New DC-DC converter with wider input range. V1.0.0 DC-DC converter would not work depending on component supplier quality. This new component solves the topic.
-  2)Power labels and comments improved with bright color and its now a lot easier to read.
-  3)Footprint of 2W10 corrected
-  4)Useless hole for antena removed
-  5)Removed shunt of VAC-L and Zone C as it was useless
+V1.1.0 comes with the following improvements:
+  1) New DC-DC converter with wider input range. V1.0.0 DC-DC converter would not work depending on component supplier quality. This new component solves the topic.
+  2) Power labels and comments improved with bright color and its now a lot easier to read.
+  3) Footprint of 2W10 corrected
+  4) Useless hole for antena removed
+  5) Removed shunt of VAC-L and Zone C as it was useless
 
 V1.1.0
 ![image](https://github.com/luisfosoares/Hunter_LS/blob/main/V1.1.0.jpg)
